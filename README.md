@@ -1,5 +1,7 @@
 <p align="center">
-</p>
+  <img src="./assets/images/piclesdev.png" width="30%">
+  </a>
+<p>
 
 <h1 align="center">
    👇 Podcast Pickle Code 👇
@@ -21,12 +23,37 @@ Projeto com o objetivo de explorar ferramentas de IA Generativas criando um cont
 
 ## 🚀 Resultados
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+<div align="center">
+    <audio controls>
+  <source src="./outputs/audios/Episódio 01 Desvendando as Sombras do CSS e Explo.MP3" type="audio/mpeg">
+</audio>
+</div>
 
 
-### Exemplos e Insigths
+## 👨‍💻 Dev
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/141881796?s=96&v=4"
+    />
+    <p>&nbsp&nbsp&nbspVanessa Sousa Pro<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/vanessasousapro">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/vanessa-sousa-pro/">
+        LinkedIn
+    </a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Vanessa Sousa Pro](https://github.com/vanessasousapro)
